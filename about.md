@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Pursuing B.Tech from Veer Surendra Sai University of Technology in Information Technology.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a student who is just starting out with DevOps learning. All the help will be appreciated.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[pranshukumar1999@gmail.com](mailto:pranshukumar1999@gmail.com)
