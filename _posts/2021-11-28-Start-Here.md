@@ -12,4 +12,8 @@ Now frankly speaking my motivation was not just the money but also is that I don
 I always wanted to do development work and finding about opensource contributions and properly using github as a Social Media on steriods([check this video](https://www.youtube.com/watch?v=yzeVMecydCE&t=1933s)) grabbed my attention and I started my journey altogether from scratch alone.
 
 
-I searched the internet for a complete guide or a Hands-On playlist(free ofcourse) but was in no luck. Then I saw an opporunity that if there is noone doing this why not dive in and become the first to do this(i know it sounds silly but...) and started this blog.    
+I searched the internet for a complete guide or a Hands-On playlist(free ofcourse) but was in no luck. Then I saw an opporunity that if there is noone doing this why not dive in and become the first to do this(i know it sounds silly but...) and started this blog.  
+
+I even have asked help in the community so please if anyone find some resources that will be very much appreciated.
+
+[NOT-FAQ](https://stackoverflow.com/questions/70140642/can-anyone-guide-on-how-to-actually-start-learning-devops-from-complete-beginner)
