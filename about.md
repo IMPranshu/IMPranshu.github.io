@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Intro]({{site.baseurl}}/_posts/download.png)
+![Intro](https://github.com/IMPranshu/IMPranshu.github.io/blob/master/_posts/download.png)
 
 My name is Pranshu Kumar Agrawal and I am engineering student [(my resume)](https://drive.google.com/file/d/1NkrDR9qZfo4daCGQzcZVY-vlenh4BLp_/view?usp=sharing).
 
