@@ -1,7 +1,10 @@
 ---
 published: true
 ---
-![Intro](download.png)
+![Intro]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
+
 
 My name is Pranshu Kumar Agrawal and I am engineering student [(my resume)](https://drive.google.com/file/d/1NkrDR9qZfo4daCGQzcZVY-vlenh4BLp_/view?usp=sharing).
 
