@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-![Intro]({{ https://github.com/IMPranshu/IMPranshu.github.io }}/_posts/download.png)
+![Intro]({{ https://github.com/IMPranshu/IMPranshu.github.io/tree/master}}/_posts/download.png)
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
 
