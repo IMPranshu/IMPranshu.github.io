@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-![Intro]({{ site.baseurl }}/images/config.png)
+![Intro]({{ site.baseurl }}/_posts/download.png)
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
 
