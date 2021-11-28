@@ -19,7 +19,7 @@ Currently I am learning DevOps and looking to contribute to opensource as much a
 ## Why this Blog?
 
 As I am learning DevOps I found that there is no guide in the internet on how to make it big in DevOps.
-I mean there are roadmaps but nobody is saying out loud that these roadmaps helped them. So I thought of trying to follow the roadmap and document where ever it takes me.
+I mean there are roadmaps but nobody is saying out loud that these roadmaps helped them. So I thought of trying to follow the roadmap and document the whole journey where ever it takes me.
 
 
 
