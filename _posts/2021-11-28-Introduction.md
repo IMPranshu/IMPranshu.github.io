@@ -5,11 +5,13 @@ published: true
 
 
 
-My name is Pranshu Kumar Agrawal and I am engineering student [(my resume)](https://drive.google.com/file/d/1NkrDR9qZfo4daCGQzcZVY-vlenh4BLp_/view?usp=sharing).
+My name is Pranshu Kumar Agrawal and I am an engineering student [(my resume)](https://drive.google.com/file/d/1NkrDR9qZfo4daCGQzcZVY-vlenh4BLp_/view?usp=sharing).
 
-I am from India and my hobby is learning new things bith tech and non-tech each and everyday.
+I am from India and my hobby includes learning new things about both tech and non-tech stuffs each and everyday.
 
 I am great follower of Steve Jobs & Elon Musk (as I have read books on them) and I look to add value in one way or other in this universe before departing.
+![Jobs]({{ site.baseurl }}/images/steve.jpg)![Musk]({{ site.baseurl }}/images/elon.jpg)
+
 
 
 Currently I am learning DevOps and looking to contribute to opensource as much as possible.
