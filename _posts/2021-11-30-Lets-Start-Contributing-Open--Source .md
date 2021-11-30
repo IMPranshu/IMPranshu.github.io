@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 So I was searching for a begineer friendly project to contribute to but then I found out that the bigger the project you are trying to contribute to the better you will learn from the community involved in it.
 
